@@ -14,9 +14,9 @@
 
 ### Languages
 
-| Go | Python | TypeScript/JS |
-| -- | ------ | ------------- |
-| ✅  | ✅      | ✅        |
+| Go | Python | Java |
+| -- | -- | -- |
+| ✅  | ✅   | ✅   |
 
 ### Backend
 
