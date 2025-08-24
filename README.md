@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋🏻 Hi there
 
-<!--
-**carlos-code-max/carlos-code-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am an R&D engineer who enjoys turning vague requirements into stable, iterative, and observable services. I value engineering pragmatism: simple, stable, reusable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Projects
+
+---
+
+---
+
+## Skills & Expertise
+
+### Languages
+
+| Go | Python | TypeScript/JS |   |   |
+| -- | ------ | ------------- | - | - |
+| ✅  | ✅      | ✅             |   |   |
+
+### Backend
+
+- Gin / FastAPI · gRPC · SSE / WebSocket · Task Scheduling
+
+### Data & Search
+
+- MySQL · ClickHouse · Elasticsearch · Redis
+
+### Infra & DevOps
+
+- Kubernetes · Nginx · CI/CD
+
+### AI
+
+- LLM · ASR · TTS · Document Parsing
+
+## Let's Connect
+
+
+
