@@ -15,8 +15,6 @@
 ### Languages
 
 | Go | Python | Java |
-| -- | ---- | -- |
-| ✅  |   ✅   | ✅   |
 
 ### Backend
 
